@@ -1,3 +1,3 @@
 def gitDownload(repo)
 {
-  git 'https://github.com/Intelliqtrainings/${repo}.git'
+  git 'https://github.com/Intelliqittrainings/${repo}.git'
